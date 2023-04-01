@@ -19,7 +19,7 @@ A simple Python-based audio transcription tool that supports transcribing audio 
 ## Installation
 
 1. Clone the repository:
-git clone
+git clone https://github.com/JoshMatthew/Youtube-Video-Transcriber.git
 2. Change directory to the cloned repository:
 cd audio-transcription-tool
 3. Install the required dependencies:
